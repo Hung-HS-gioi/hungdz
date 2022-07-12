@@ -1,0 +1,8 @@
+dvclive>=0.6
+pandas
+pyaml
+scikit-learn
+scipy
+matplotlib
+numpy
+seaborn

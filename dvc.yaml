@@ -1,0 +1,8 @@
+stages:
+   testdvc :
+     cmd: python code/src/scode.py data/S.csv
+     deps:
+     - data/S.csv
+     - code/src/scode.py
+     outs:
+     - data/testdvc
